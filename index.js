@@ -33,7 +33,6 @@ function makeInt(n) {
   return n; 
 }
 
-function makeInt(n) {
-  var parsed = parseInt(n, 0);
-  return n;
+function makeInt(n){
+  return parseInt(n, 10);
 }
