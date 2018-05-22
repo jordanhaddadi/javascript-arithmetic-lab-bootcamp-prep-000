@@ -34,6 +34,6 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  makeInt('0x2328').toEqual(0)
+  
   return n;
 }
