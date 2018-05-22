@@ -32,3 +32,7 @@ function makeInt(n) {
   var parsed = parseInt('2.2222', 10);
   return n; 
 }
+
+function makeInt(n) {
+  
+}
