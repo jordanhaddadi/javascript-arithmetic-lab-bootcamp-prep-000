@@ -34,6 +34,6 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  var parsed = parseInt('0x2328', 0);
+  var parsed = parseInt(n, 0);
   return n;
 }
